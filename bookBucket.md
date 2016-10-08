@@ -127,7 +127,7 @@ Glasl: 9 stages
 ![](zConfResDestruction.png)
 
 ## Domination
-
+https://bhc3.com/2009/02/16/forget-dunbars-number-our-future-is-in-scobles-number/
 ![](zConfResDomination.png)
 
 ## Delegation
@@ -138,3 +138,12 @@ Glasl: 9 stages
 
 ## Consent
 ![](zConfResConsent.png)
+
+Scobles number: https://bhc3.com/2009/02/16/forget-dunbars-number-our-future-is-in-scobles-number/
+Allen Curve - distance vs communication. https://en.wikipedia.org/wiki/Allen_curve
+Agile camp cool slides: http://www.slideshare.net/AgileCampSV/agilecamp-2015-keynote-scrum-is-a-productivity-superweapon-jeff-sutherland
+Metcalfes law about value of networks as a power
+4.6: http://sheilamargolis.com/2011/01/24/what-is-the-optimal-group-size-for-decision-making/
+spotify structure: https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf
+Valve book: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
+Metcalfe’s Law Opportunity Gap.- https://bhc3.com/2010/01/19/why-smbs-need-social-software-dunbars-number-limits-metcalfes-law/
