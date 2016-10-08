@@ -3,5 +3,10 @@
         "katex",
         "forkmegithub"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "forkmegithub": {
+            "url": "https://github.com/DougInAMug/a-systemic-consensus-manual",
+            "color": "darkblue"
+        }
+    }
 }
