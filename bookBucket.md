@@ -1,5 +1,7 @@
 # Book Bucket 
 
+_A whole bunch of half-finished stuff, ideas, links, etc which eventually should go somewhere_
+
 ## Resources
 
 * [gitbook.com](https://toolchain.gitbook.com) - GitBook manual
@@ -93,30 +95,28 @@ Philosophy
 * Good and bad are relative terms that don't exist in a vacuum.
 * Few things are binary. Really few. Most things are scalar.
 
-----
+## Model
 
-Orientation: facing east (or any other direction)  
-Collaboration - Identify ways in which you might go North. 
-Coordination - What is North? Do you want to go North? Decide the way. 
-	Coordinate: order together
-Cooperation - Work together to implement the decision.
-	Cooperate: work together
-Organize: construct/establish (from organ)
+* **Feelings.** The natural, honest and internal feelings towards the options.
+* _Filtration._ The filter through which feelings must pass. (the permitted expression)
+* **Individual expression.** The transmitted expression. (cardinal or ordinal values)
+* _Aggregation._ Aggregation process.
+* **Group expression.**
+* _Processing._ Decision rules. 
+* **Decision.**
 
- ---> Coordination ----
-|                      |
- ---- Cooperation <----
+$$ Persons: x, y, z $$
 
-Group decisions are better when individuals express what they actually feel. Methods that are better at allowing people to express what they actually feel lead to better decisions. Chance has no individual expression. Authority has few individuals expressing how they feel and others are forced. Individual autonomy doesn't
+$$ On\ options: n, m, o $$
 
-Discussion is a generative process, that is, you build more options, not identify fewer.
+Personally expressed: $$ \{xn,xm,xo\}, \{yn,ym,yo\}, \{zn,zm,zo\} $$
 
-Persons: $$ x, y, z $$
-On options: $$ n, m, o $$
-Personally expressed: $$ {xn,xm,xo}, {yn,ym,yo}, {zn,zm,zo} $$
 Which when aggregated using: $$ j $$
+
 To group expression: $$ [an, bm, co] $$
+
 And when applying logic: $$ k $$
+
 Identifies the best group decision as option: $$ m $$
 
 Scale, Acceptance, Intelligence
@@ -148,4 +148,20 @@ Conflict happens and that's OK. How do we respond to it? A bad response is an ex
 ### Consent
 ![](zConfResConsent.png)
 
+----
 
+Orientation: facing east (or any other direction)  
+Collaboration - Identify ways in which you might go North. 
+Coordination - What is North? Do you want to go North? Decide the way. 
+	Coordinate: order together
+Cooperation - Work together to implement the decision.
+	Cooperate: work together
+Organize: construct/establish (from organ)
+
+ ---> Coordination ----
+|                      |
+ ---- Cooperation <----
+
+Group decisions are better when individuals express what they actually feel. Methods that are better at allowing people to express what they actually feel lead to better decisions. Chance has no individual expression. Authority has few individuals expressing how they feel and others are forced. Individual autonomy doesn't
+
+Discussion is a generative process, that is, you build more options, not identify fewer.
