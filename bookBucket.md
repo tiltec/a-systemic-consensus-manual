@@ -16,12 +16,12 @@
 * Agnew, Z. (2016). _How to Nurture Living and Evolving Doocracy_ [Accessed [here](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170?source=bookmarks---------1-) on 2016-10-07]
 * Ruble, T.L. and Thomas, K.W. (1976). _Support for a two-dimensional model of conflict behavior_ [Perhaps accessible [here](http://www.sciencedirect.com.sci-hub.bz/science/article/pii/0030507376900106)]
 * Schwarz, G. (2005). _Konfliktmanagement - Konflikte erkennen, analysieren, lösen_ [lang:de], Gerhard Schwarz [Perhaps accessible [here](http://libgen.io/search.php?req=978-3-8349-4598-3&open=0&res=25&view=simple&phrase=1&column=identifier)]
-* Visotschnig, E., Schrotta, S., _et al._ (from 2001). _http://www.sk-prinzip.eu/_ (The original Systemisches Konsensieren site) [lang:de]
+* Visotschnig, E., Schrotta, S., _et al._ (from 2001). _[sk-prinzip.eu/](http://www.sk-prinzip.eu/)_ (The original Systemisches Konsensieren site) [lang:de]
 * Freeman, J. (1973). _The Tyranny of Structurelessness_ [Accessed [here](http://www.jofreeman.com/joreen/tyranny.htm) on 2016-10-08]
 * Surowiecki, J. (2004). _The Wisdom of Crowds_ [Perhaps accessible [here](http://www.asecib.ase.ro/mps/TheWisdomOfCrowds-JamesSurowiecki.pdf)]
 * Glasl, F. (1994). _Friedrich Glasl, Konfliktmanagement - Handbuch für Führungskräfte . Beraterinnen und Berater_ [lang:de] [Perhaps accessible [here](http://libgen.io/search.php?req=978-3-531-92789-3_4&open=0&res=25&view=simple&phrase=1&column=identifier)]
 * Tuckman, B.W. (1965). _Developmental Sequence in Small Groups_ [Accessed [here](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf) 2016-08-10]
-* Alós–Ferrer, C. and Granić, Ð. (2009). _Approval Voting in Germany: Description of a Field Experiment_
+* Alós–Ferrer, C. and Granić, Ð. (2009). _Approval Voting in Germany: Description of a Field Experiment_ [Accessed [here](http://www.rangevoting.org/AVGermany.pdf) on 2016-10-09]
 
 ## To get
 
