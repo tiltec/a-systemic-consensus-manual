@@ -31,14 +31,6 @@ It follows that feelings and their origins should be considered before strategie
 
 A simple model for any decision making system is shown below
 
-* **Feelings.** The natural, honest and internal feelings towards the options.
-* **Filter.** The filter through which feelings must pass. (the permitted expression)
-* **Individual expression.** The transmitted expression. (cardinal or ordinal values)
-* **Aggregation.** Aggregation process.
-* **Group expression.**
-* **Logic.** Decision rules. 
-* **Result.**
-
 ## Your bias
 
 People alive 100 years ago are as alien to us now as we will be to those 100 years from now. How things work, what we collectively believe, societal values - these things which seem so constant are not really. So what is the your experience of the world and what bias has it left you?
