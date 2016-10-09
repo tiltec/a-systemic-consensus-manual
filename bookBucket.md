@@ -111,12 +111,18 @@ Group decisions are better when individuals express what they actually feel. Met
 
 Discussion is a generative process, that is, you build more options, not identify fewer.
 
-Persons: $$ x, y, z $$
-On options: $$ n, m, o $$
-Personally expressed: $$ {xn,xm,xo}, {yn,ym,yo}, {zn,zm,zo} $$
+$$ Persons: x, y, z $$
+
+$$ On\ options: n, m, o $$
+
+Personally expressed: $$ \{xn,xm,xo\}, \{yn,ym,yo\}, \{zn,zm,zo\} $$
+
 Which when aggregated using: $$ j $$
+
 To group expression: $$ [an, bm, co] $$
+
 And when applying logic: $$ k $$
+
 Identifies the best group decision as option: $$ m $$
 
 Scale, Acceptance, Intelligence
