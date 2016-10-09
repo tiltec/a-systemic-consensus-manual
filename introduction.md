@@ -8,7 +8,7 @@ A preface or foreword deals with the genesis, purpose, limitations, and scope of
 
 Before we fall down the rabbit-hole, let's look at some words.
 
-What is a decision? A decision is a commitment to action, a promise of change. A decision can be made with full consciousness or completely subconsciously, it can have a vast scope or a minute one. The success of a decision is dependent on its implementation, its manifestion in reality. Implementing a decision means performing action consistent to achieving the desired change, doing it. The goodness of a decision is a subjective measure, relative to the intended outcome. 
+What is a decision? A decision is a commitment to  futureaction, a promise of change. A decision can be made with full consciousness or completely subconsciously, it can have a vast scope or a minute one. The success of a decision is dependent on its implementation, its manifestion in reality. Implementing a decision means performing action consistent to achieving the desired change, doing it. The goodness of a decision is a subjective measure, relative to the intended outcome. 
 
 What is a group? A group is an association of two or more individuals and the subsequent non-physical entity created. A group is created and sustained by individuals identifying themselves as part of it. A group can be planned or emergent, as small as two or as big as you can imagine. One can consider a group to be an imaginary person with attributes similar to those of a human, distinct from the composite individuals. 
 
@@ -39,9 +39,11 @@ A simple model for any decision making system is shown below
 * **Logic.** Decision rules. 
 * **Result.**
 
-## Our bias
+## Your bias
 
-Authority, represnetative democracy, FPTP voting (UK/US), physical force, forceful keeping together.
+People alive 100 years ago are as alien to us now as we will be to those 100 years from now. How things work, what we collectively believe, societal values - these things which seem so constant are not really. So what is the your experience of the world and what bias has it left you?
+
+There's a good chance that if you are reading this you were raised in a type of representative democracy, where a few people are periodically elected to perform legislative, fical and governmental functions supported by an internal enforcement agency (police) and external enforcement agency (army). of sortsAuthority, represnetative democracy, FPTP voting (UK/US), physical force, forceful keeping together.
 
 Voting for representatives to govern your country is really different to deciding something that you will do for several reasons. Firstly, you vote for an ideology not an action. This is really significant. The second is that in voting for representatives you basically delegate your responsibility and authority.
 
