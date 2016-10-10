@@ -1,7 +1,7 @@
 # Summary
 
 * [About](README.md)
-* [Front Matter](frontMatter.md)
+* [Front Matter](foreword.md)
 * [Introduction](introduction.md)
 * [The Alternatives](theAlternatives.md)
    * [Chance](chance.md)
