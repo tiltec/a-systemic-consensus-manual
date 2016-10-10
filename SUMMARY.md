@@ -3,7 +3,7 @@
 * [About](README.md)
 * [Foreword](foreword.md)
 * [Introduction](introduction.md)
-* [The Alternatives](theAlternatives.md)
+* [Known methods](theAlternatives.md)
    * [Chance](chance.md)
    * [Authority](authority.md)
    * [Autonomy](autonomy.md)
