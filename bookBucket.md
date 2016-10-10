@@ -25,6 +25,12 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Tuckman, B.W. (1965). _Developmental Sequence in Small Groups_ [Accessed [here](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf) 2016-08-10]
 * Alós–Ferrer, C. and Granić, Ð. (2009). _Approval Voting in Germany: Description of a Field Experiment_ [Accessed [here](http://www.rangevoting.org/AVGermany.pdf) on 2016-10-09]
 * Smith W.D. (2000). Range voting [Accessed [here](http://scorevoting.net/WarrenSmithPages/homepage/rangevote.pdf) on 2016-10-09]
+* Hackman, J.R. and Vidmar, N. (1970). _Effects of Size and Task Type on Group Performance and Member Reactions_ [Perhaps accessible [here](http://www.jstor.org.sci-hub.bz/stable/2786271?seq=1#page_scan_tab_contents)]
+* Reed, D.P. (2001). _The Law of the Pack_ [Accessed [here](https://hbr.org/2001/02/the-law-of-the-pack) on 2016-10-10]
+* Kovarik, B. (2015). _Revolutions in Communication: Media History from Gutenberg to the Digital Age_
+* https://en.wikipedia.org/wiki/David_Sarnoff
+* Metcalfe, R. (1995). _Metcalfe's Law: A network becomes more valuable as it reaches more users._ [Accessed [here](https://books.google.de/books?id=XDoEAAAAMBAJ&pg=PA53&lpg=PA53&dq=Metcalfe%27s+Law:+A+network+becomes+more+valuable+as+it+reaches+more+users.+Infoworld,+Oct.+2,+1995.&source=bl&ots=NWnb6DQsdX&sig=CwWrELsjPXoKGiW9ADvV_k09Fb4&hl=en&sa=X&ved=0ahUKEwiE2_3xi9HPAhXDRhQKHYn2CnYQ6AEIOTAG#v=onepage&q=Metcalfe%27s%20Law%3A%20A%20network%20becomes%20more%20valuable%20as%20it%20reaches%20more%20users.%20Infoworld%2C%20Oct.%202%2C%201995.&f=false) on 2016-10-10]
+* Odlyzko, A and Tilly, B. (2005). _A refutation of Metcalfe's Law and a better estimate for the value of networks and network interconnections_ [Accessed [here](http://www.dtc.umn.edu/~odlyzko/doc/metcalfe.pdf) on 2016-10-11]
 
 ## To get
 
@@ -33,11 +39,24 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Allen Curve - distance vs communication. https://en.wikipedia.org/wiki/Allen_curve
 * Agile camp cool slides: http://www.slideshare.net/AgileCampSV/agilecamp-2015-keynote-scrum-is-a-productivity-superweapon-jeff-sutherland
 * Metcalfes law about value of networks as a power
-* 4.6: http://sheilamargolis.com/2011/01/24/what-is-the-optimal-group-size-for-decision-making/
-	-> The paper with the X graph going to 4.6
 * spotify structure: https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf
 * Valve book: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 * Metcalfe’s Law Opportunity Gap.- https://bhc3.com/2010/01/19/why-smbs-need-social-software-dunbars-number-limits-metcalfes-law/
+
+# Value of a group
+
+More people is good: division of labour, economy of scale... The value of a group relative to the number of members has been theorized by many
+
+* Sarnoffs law: The value of a group increases directly proportional to the number of members. Coming from one-to-many broadcasting company. V = N
+* Metcalfes law: The value of a group increases proportional to the square of the numbers of members. Coming from number of unique one-to-one interactions of telephones, birth of the internet days. V = (N(N-1))/2 ~= N^2
+* Reeds law: The value of a group increases proportional to the square of the numbers of members. V = 2^(N)-N-1 ~= 2^(N)  https://hbr.org/2001/02/the-law-of-the-pack many to many
+
+## Non-zero-sum
+
+> ...the Dodo suddenly called out "The race is over!" and they all crowded round it, panting, and asking, `But who has won?'
+> This question the Dodo could not answer without a great deal of thought ... At last the Dodo said, "*Everybody* has won and all must have prizes."
+
+![](zDodo.png)
 
 ## Human evolution
 
