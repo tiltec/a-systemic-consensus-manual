@@ -24,6 +24,7 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Glasl, F. (1994). _Friedrich Glasl, Konfliktmanagement - Handbuch für Führungskräfte . Beraterinnen und Berater_ [lang:de] [Perhaps accessible [here](http://libgen.io/search.php?req=978-3-531-92789-3_4&open=0&res=25&view=simple&phrase=1&column=identifier)]
 * Tuckman, B.W. (1965). _Developmental Sequence in Small Groups_ [Accessed [here](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf) 2016-08-10]
 * Alós–Ferrer, C. and Granić, Ð. (2009). _Approval Voting in Germany: Description of a Field Experiment_ [Accessed [here](http://www.rangevoting.org/AVGermany.pdf) on 2016-10-09]
+* Smith W.D. (2000). Range voting [Accessed [here](http://scorevoting.net/WarrenSmithPages/homepage/rangevote.pdf) on 2016-10-09]
 
 ## To get
 

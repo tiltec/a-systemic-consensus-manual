@@ -1,10 +1,10 @@
 # About
 
-This text explores group decisions. What are they (good for)? How can you arrive at them? More well known methods are reviewed ahead of the introduction of a simple, scalable and consent-oriented decision making framework called **Systemic Consensus** which combines range voting with control options and consensus logic. The aspects required for understanding and implementation thereof will be covered. 
+Group decisions. Why, What but mostly How. Established methods reviewed and Systemic Consensus introduced: a simple, scalable and consent-oriented decision making framework called **Systemic Consensus** which combines range voting with control options and consensus logic.
 
 ## Version
 
-Not yet. This text is in _active development_ as of 2016-09-xx and probably makes horrible reading, though you're welcome to look in as words come together. Export to .pdf, .mobi and .epub has currently been disabled for faster compile times, but can be easily re-enabled if desired. Hurl any abuse/flattery/suggestions towards [@DougInAMug](https://twitter.com/DougInAMug). Cheers, D.
+Not yet, _active development_ as of 2016-09-xx. Export to .pdf, .mobi and .epub has currently been disabled, but can be easily re-enabled if desired. Hurl any abuse/flattery/suggestions towards [@DougInAMug](https://twitter.com/DougInAMug).
 
 ![](zInDevelopmentHat.png)
 
@@ -18,7 +18,7 @@ Yes please! I really want to create a living, accessible and curated piece of wo
 
 ## License 
 
-This text is licensed using the Creative Commons License, CC0 1.0 Universal (CC0 1.0) [Public Domain Dedication] - feel free to read the [human-readable summary](https://creativecommons.org/publicdomain/zero/1.0/) or the full [legal code](https://creativecommons.org/publicdomain/zero/1.0/legalcode). In short: **Take it, use it - don't ask.** (also see 'Working together' above)
+CC0 1.0 - human-readable summary [here](https://creativecommons.org/publicdomain/zero/1.0/) and full legal code [here](https://creativecommons.org/publicdomain/zero/1.0/legalcode). In short: **Take it, use it - don't ask.** (also see 'Working together' above)
 
 ![](zCC0_88x31.png)
 

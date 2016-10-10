@@ -21,7 +21,7 @@ This text will not solve your problems and wake you up with a cup of tea in the 
 Decision making affects every individual and groups of every size, so there is hopefully something for everyone in this text. That said, it is definitely geared towards groups of a more voluntary nature with an subconscious bias towards scalability.
 
 <!-- 	
-# What is a preface?
+# What is a foreword?
 
 "A preface or foreword deals with the **genesis, purpose, limitations, and scope of the book and may include acknowledgments of indebtedness;** an introduction deals with the subject of the book, supplementing and introducing the text and indicating a point of view to be adopted by the reader. The introduction usually forms a part of the text [and the text numbering system]; the preface does not."
 
