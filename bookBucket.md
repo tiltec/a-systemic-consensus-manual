@@ -24,7 +24,7 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Glasl, F. (1994). _Friedrich Glasl, Konfliktmanagement - Handbuch für Führungskräfte . Beraterinnen und Berater_ [lang:de] [Perhaps accessible [here](http://libgen.io/search.php?req=978-3-531-92789-3_4&open=0&res=25&view=simple&phrase=1&column=identifier)]
 * Tuckman, B.W. (1965). _Developmental Sequence in Small Groups_ [Accessed [here](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf) 2016-08-10]
 * Alós–Ferrer, C. and Granić, Ð. (2009). _Approval Voting in Germany: Description of a Field Experiment_ [Accessed [here](http://www.rangevoting.org/AVGermany.pdf) on 2016-10-09]
-* Smith W.D. (2000). Range voting [Accessed [here](http://scorevoting.net/WarrenSmithPages/homepage/rangevote.pdf) on 2016-10-09]
+* Smith W.D. (2000). _Range voting_ [Accessed [here](http://scorevoting.net/WarrenSmithPages/homepage/rangevote.pdf) on 2016-10-09]
 * Hackman, J.R. and Vidmar, N. (1970). _Effects of Size and Task Type on Group Performance and Member Reactions_ [Perhaps accessible [here](http://www.jstor.org.sci-hub.bz/stable/2786271?seq=1#page_scan_tab_contents)]
 * Reed, D.P. (2001). _The Law of the Pack_ [Accessed [here](https://hbr.org/2001/02/the-law-of-the-pack) on 2016-10-10]
 * Kovarik, B. (2015). _Revolutions in Communication: Media History from Gutenberg to the Digital Age_
@@ -42,19 +42,36 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * spotify structure: https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf
 * Valve book: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 * Metcalfe’s Law Opportunity Gap.- https://bhc3.com/2010/01/19/why-smbs-need-social-software-dunbars-number-limits-metcalfes-law/
+* http://ska.quicquid.org/
+* https://hbr.org/2001/02/the-law-of-the-pack many to many
 
 # Value of a group
 
 More people is good: division of labour, economy of scale... The value of a group relative to the number of members has been theorized by many
 
-* Sarnoffs law: The value of a group increases directly proportional to the number of members. Coming from one-to-many broadcasting company. V = N
-* Metcalfes law: The value of a group increases proportional to the square of the numbers of members. Coming from number of unique one-to-one interactions of telephones, birth of the internet days. V = (N(N-1))/2 ~= N^2
-* Reeds law: The value of a group increases proportional to the square of the numbers of members. V = 2^(N)-N-1 ~= 2^(N)  https://hbr.org/2001/02/the-law-of-the-pack many to many
+**Sarnoffs law.** The value of a group increases directly proportional to the number of members. Coming from one-to-many broadcasting company. 
 
-## Non-zero-sum
+$$ V = N $$
 
-> ...the Dodo suddenly called out "The race is over!" and they all crowded round it, panting, and asking, `But who has won?'
-> This question the Dodo could not answer without a great deal of thought ... At last the Dodo said, "*Everybody* has won and all must have prizes."
+**Metcalfes law.** The value of a group increases proportional to the square of the numbers of members. Coming from number of unique one-to-one interactions of telephones, birth of the internet days. 
+
+$$ V = (N(N-1))/2 \approx N^2 $$
+
+**Reeds law.** The value of a group increases proportional to the square of the numbers of members. 
+
+$$ V = 2^(N)-N-1 \approx 2^(N) $$
+  
+**Odlyzko and Tilly.** 
+
+$$ V = Nlog(N) $$
+
+## Non-zero-sum games
+
+> ...the Dodo suddenly called out "The race is over!" and they all crowded round it, panting, and asking, "But who has won?"
+>
+> This question the Dodo could not answer without a great deal of thought ... 
+>
+> At last the Dodo said, "*Everybody* has won and all must have prizes."
 
 ![](zDodo.png)
 
@@ -129,17 +146,15 @@ $$ Persons: x, y, z $$
 
 $$ On\ options: n, m, o $$
 
-Personally expressed: $$ \{xn,xm,xo\}, \{yn,ym,yo\}, \{zn,zm,zo\} $$
+$$ Personally\ expressed: \{xn,xm,xo\}, \{yn,ym,yo\}, \{zn,zm,zo\} $$
 
-Which when aggregated using: $$ j $$
+$$ Which\ when\ aggregated\ using: j $$
 
-To group expression: $$ [an, bm, co] $$
+$$ To\ group\ expression: [an, bm, co] $$
 
-And when applying logic: $$ k $$
+$$ And\ when\ applying\ logic: k $$
 
-Identifies the best group decision as option: $$ m $$
-
-Scale, Acceptance, Intelligence
+$$ Identifies\ the\ best\ group\ decision\ as\ option: m $$
 
 ## Conflict
 
@@ -185,3 +200,5 @@ Organize: construct/establish (from organ)
 Group decisions are better when individuals express what they actually feel. Methods that are better at allowing people to express what they actually feel lead to better decisions. Chance has no individual expression. Authority has few individuals expressing how they feel and others are forced. Individual autonomy doesn't
 
 Discussion is a generative process, that is, you build more options, not identify fewer.
+
+Scale, Acceptance, Intelligence
