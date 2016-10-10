@@ -4,12 +4,12 @@
 
 _Writer, editor, coordinator, researcher and some basic IT stuff_
 
-Twitter: [@DougInAMug](https://twitter.com/DougInAMug) | Website/blog: [mindbleedofdoug.com](....) | Contributing to [yunity.org](https://yunity.org) 
+Twitter: [@DougInAMug](https://twitter.com/DougInAMug) | Website/blog: [mindbleedofdoug](https://sites.google.com/site/mindbleedofdoug/) | Contributing to [yunity.org](https://yunity.org) 
 
 <!--
-# Perhaps cool if we write the bio of another... blanking.
+# Perhaps cool if we write the bio of another... mind is blanking about what is important for me to tell others...
 
-What is important to me
+What is important to me:
 
 Chemistry
 experiences
