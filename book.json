@@ -1,7 +1,8 @@
 {
     "plugins": [
         "katex",
-        "forkmegithub"
+        "forkmegithub",
+        "atoc"
     ],
     "pluginsConfig": {
         "forkmegithub": {
