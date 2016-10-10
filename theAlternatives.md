@@ -1,4 +1,4 @@
-# Decision making systems
+# Methods
 
 This section runs through a whole lot of different decision making systems in the categories of Chance, Autonomy, Autonomy, Majority, Consent and Consensus
 
