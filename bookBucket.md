@@ -38,7 +38,6 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Scobles number: https://bhc3.com/2009/02/16/forget-dunbars-number-our-future-is-in-scobles-number/
 * Allen Curve - distance vs communication. https://en.wikipedia.org/wiki/Allen_curve
 * Agile camp cool slides: http://www.slideshare.net/AgileCampSV/agilecamp-2015-keynote-scrum-is-a-productivity-superweapon-jeff-sutherland
-* Metcalfes law about value of networks as a power
 * spotify structure: https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf
 * Valve book: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 * Metcalfe’s Law Opportunity Gap.- https://bhc3.com/2010/01/19/why-smbs-need-social-software-dunbars-number-limits-metcalfes-law/
@@ -59,13 +58,23 @@ $$ V = (N(N-1))/2 \approx N^2 $$
 
 **Reeds law.** The value of a group increases proportional to the square of the numbers of members. 
 
-$$ V = 2^(N)-N-1 \approx 2^(N) $$
+$$ V = 2^N-N-1 \approx 2^N $$
   
 **Odlyzko and Tilly.** 
 
 $$ V = Nlog(N) $$
 
+## The life of a decision
+
+dissent
+exploration
+resolution
+implementation
+
+
 ## Non-zero-sum games
+
+What if there were only winners? Alice experiences this in Wonderland:
 
 > ...the Dodo suddenly called out "The race is over!" and they all crowded round it, panting, and asking, "But who has won?"
 >
@@ -74,6 +83,8 @@ $$ V = Nlog(N) $$
 > At last the Dodo said, "*Everybody* has won and all must have prizes."
 
 ![](zDodo.png)
+
+Secretly belies monolithic belief system.
 
 ## Human evolution
 
@@ -156,7 +167,9 @@ $$ And\ when\ applying\ logic: k $$
 
 $$ Identifies\ the\ best\ group\ decision\ as\ option: m $$
 
-## Conflict
+## Dissent
+
+conflict from Latin com- "together" + fligere "to strike" (http://www.etymonline.com/index.php?term=conflict). Conflict can seem like a really heavy word, conjuring up scenes of war and other physical violence, but it's use here encompasses any instance when one or more people have different, competing options. Something as simple as deciding what film to watch. As such, some prefer to use 'tension' or 'driver'[^sociocracy 3.0] instead.
 
 One dimensional view
 Ruble and Thomas: Two dimensional view
@@ -165,23 +178,49 @@ Glasl: 9 stages
 
 Conflict happens and that's OK. How do we respond to it? A bad response is an exaggerated one, but the worst is to ignore it.
 
+> Conflict is the beginning of consciousness
+>
+> M. Esther Harding
+
 ### Flight
-![](zConfResFlight.png)
+![](zDissResFlight.png)
 
 ### Destruction
-![](zConfResDestruction.png)
+![](zDissResDestruction.png)
 
 ### Domination
-![](zConfResDomination.png)
+![](zDissResDomination.png)
 
 ### Delegation
-![](zConfResDelegation.png)
+![](zDissResDelegation.png)
 
 ### Compromise
-![](zConfResCompromise.png)
+![](zDissResCompromise.png)
 
 ### Consent
-![](zConfResConsent.png)
+![](zDissResConsent.png)
+
+## Words
+
+_All etymology thanks to etymonline.com_
+
+dissent (v.) Look up dissent at Dictionary.com
+    early 15c., from Latin dissentire "differ in sentiments, disagree, be at odds, contradict, quarrel," from dis- "differently" (see dis-) + sentire "to feel, think" (see sense (n.)). Related: Dissented; dissenting. The noun is 1580s, from the verb.
+
+        Has there ever been a society which has died of dissent? Several have died of conformity in our lifetime. [Jacob Bronowski "Science and Human Values," 1956]
+
+consent (v.) Look up consent at Dictionary.com
+    early 13c., from Old French consentir (12c.) "agree, comply," from Latin consentire "feel together," from com- "with" (see com-) + sentire "to feel" (see sense (n.)). "Feeling together," hence, "agreeing, giving permission," apparently a sense evolution that took place in French before the word reached English. Related: Consented; consenting.
+    
+conflict (v.) Look up conflict at Dictionary.com
+    early 15c., from Latin conflictus, past participle of confligere "to strike together, be in conflict," from com- "together" (see com-) + fligere "to strike" (see afflict). Related: Conflicted; conflicting.
+
+decide (v.) Look up decide at Dictionary.com
+    late 14c., "to settle a dispute," from Old French decider, from Latin decidere "to decide, determine," literally "to cut off," from de- "off" (see de-) + caedere "to cut" (see -cide). For Latin vowel change, see acquisition. Sense is of resolving difficulties "at a stroke." Meaning "to make up one's mind" is attested from 1830. Related: Decided; deciding.
+
+implement (v.) Look up implement at Dictionary.com
+    "to complete, perform, carry into effect," 1707, originally chiefly in Scottish English, where the noun was a legal term meaning "fulfillment," from implement (n.). It spawned implementation, which is first recorded 1913. Related: Implemented; implementing.
+
 
 ----
 
