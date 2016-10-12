@@ -64,15 +64,7 @@ $$ V = 2^N-N-1 \approx 2^N $$
 
 $$ V = Nlog(N) $$
 
-## The life of a decision
-
-dissent
-exploration
-resolution
-implementation
-
-
-## Non-zero-sum games
+## Non-zero-sum games (Concept most relevant wrt 
 
 What if there were only winners? Alice experiences this in Wonderland:
 
@@ -167,38 +159,14 @@ $$ And\ when\ applying\ logic: k $$
 
 $$ Identifies\ the\ best\ group\ decision\ as\ option: m $$
 
-## Dissent
+![](zGDMModel.png)
 
-conflict from Latin com- "together" + fligere "to strike" (http://www.etymonline.com/index.php?term=conflict). Conflict can seem like a really heavy word, conjuring up scenes of war and other physical violence, but it's use here encompasses any instance when one or more people have different, competing options. Something as simple as deciding what film to watch. As such, some prefer to use 'tension' or 'driver'[^sociocracy 3.0] instead.
+## The life of a decision
 
-One dimensional view
-Ruble and Thomas: Two dimensional view
-Schwarz: orders 6 conflict resolution strategies including externalization (delegation).
-Glasl: 9 stages
-
-Conflict happens and that's OK. How do we respond to it? A bad response is an exaggerated one, but the worst is to ignore it.
-
-> Conflict is the beginning of consciousness
->
-> M. Esther Harding
-
-### Flight
-![](zDissResFlight.png)
-
-### Destruction
-![](zDissResDestruction.png)
-
-### Domination
-![](zDissResDomination.png)
-
-### Delegation
-![](zDissResDelegation.png)
-
-### Compromise
-![](zDissResCompromise.png)
-
-### Consent
-![](zDissResConsent.png)
+dissent identification
+exploration (proposals formed, options identified,
+decision (consent > compromize > delegation > domination > destruction > flight)
+implementation
 
 ## Words
 
@@ -220,7 +188,19 @@ decide (v.) Look up decide at Dictionary.com
 
 implement (v.) Look up implement at Dictionary.com
     "to complete, perform, carry into effect," 1707, originally chiefly in Scottish English, where the noun was a legal term meaning "fulfillment," from implement (n.). It spawned implementation, which is first recorded 1913. Related: Implemented; implementing.
+    
+sense (n.) Look up sense at Dictionary.com
+    c. 1400, "faculty of perception," also "meaning, import, interpretation" (especially of Holy Scripture), from Old French sens "one of the five senses; meaning; wit, understanding" (12c.) and directly from Latin sensus "perception, feeling, undertaking, meaning," from sentire "perceive, feel, know," probably a figurative use of a literally meaning "to find one's way," or "to go mentally," from PIE root *sent- "to go" (source also of Old High German sinnan "to go, travel, strive after, have in mind, perceive," German Sinn "sense, mind," Old English sið "way, journey," Old Irish set, Welsh hynt "way"). Application to any one of the external or outward senses (touch, sight, hearing, etc.) in English first recorded 1520s.
 
+        A certain negro tribe has a special word for "see;" but only one general word for "hear," "touch," "smell," and "taste." It matters little through which sense I realize that in the dark I have blundered into a pig-sty. In French "sentir" means to smell, to touch, and to feel, all together. [Erich M. von Hornbostel, "Die Einheit der Sinne" ("The Unity of the Senses"), 1927] 
+
+    Meaning "that which is wise" is from c. 1600. Meaning "capacity for perception and appreciation" is from c. 1600 (as in sense of humor, attested by 1783, sense of shame, 1640s).
+   
+coordination (n.) Look up coordination at Dictionary.com
+    also co-ordination, c. 1600, "orderly combination," from French coordination (14c.) or directly from Late Latin coordinationem (nominative coordinatio), noun of action from past participle stem of Latin coordinare "to set in order, arrange," from com- "together" (see com-) + ordinatio "arrangement," from ordo "order" (see order (n.)). Meaning "action of setting in order" is from 1640s; that of "harmonious adjustment or action," especially of muscles and bodily movements, is from 1855
+    
+cooperation (n.) Look up cooperation at Dictionary.com
+    late 15c., from Middle French coopération, or directly from Late Latin cooperationem (nominative cooperatio) "a working together," noun of action from past participle stem of cooperari "to work together," from com- "with" (see com-) + operari "to work" (see operation).
 
 ----
 
@@ -241,3 +221,58 @@ Group decisions are better when individuals express what they actually feel. Met
 Discussion is a generative process, that is, you build more options, not identify fewer.
 
 Scale, Acceptance, Intelligence
+
+majority 
+
+majority methods aim to select the option suported by most people. This thus is thus a dominative approach to dealing with dissent: the biggest/strongest group getting what they want.  may come from the thinking that it is better 
+
+ovpb/single/singular/simple/binary
+	plurality (a.k.a. absolute majority)
+	majority (a.k.a. relative majority
+	supermajority
+		Two round system
+	
+	
+	
+	
+	Instant Runoff Voting (Preferential voting, alternative vote)
+	Contingent vote
+	
+	
+	
+It is not desirable - it is not even possible - for all the decisions that affect yunity to involve every contributor. yunity needs individuals that are confident to do things for the group when they see something that needs to be done - people like you! We each have eyes, ears and a brain and no one knows feelings or experiences better than the beholder. We trust you to make decisions and do stuff. In yunity there are no formal power hierarchies and people actively seek-and-destroy informal ones. As such there is no authority in the group greater than the group itself which you are equally part of. Ok, so you want to do something...
+
+If you see a job, it's yours! You can do it, delegate it, flag it or try and organize others to help you with it. (You can also ignore it or complain about it.... but don't do that)
+Awareness
+
+Start here! As the person taking action, it's really important to first have a dialogue with yourself. Do you have internal consent to perform this action? Also think about:
+
+    Effect. Who is affected? How are they affected? How strongly are they affected? Why are things the way they are right now?
+    Reversibility. Can you see unintended consequences? How much energy would it take you to reverse your actions?
+    Transparency. Do other people know what’s happening? Can they easily get involved if they want to?
+
+ Some extra questions you can ask yourself for bonus self-awareness...
+Modes
+
+Now that you're hyper-self-aware, here are three modes of AAA you can consider using:
+
+    Just-do-it: Simply go ahead. Go on, try it! (a.k.a. Doocracy)
+    I-will-do-it: Announce that you plan to do something by HH-DD-MM-YYYY. Be sure to listen to any feedback you receive.
+    Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). You can also tell them about your great idea but first ask for - and listen to - whatever advice they might have. (a.k.a. Advice Process)
+
+Beware
+
+Watch out for some of these non-awesome, potential side-effects:
+
+    Tyrrany. If the same people keep doing the same stuff, a concentration of knowledge and experience will grow. This is not a bad thing - it is specialization - but can lead to informal power hierarchies (boo).
+    Passivity. The effect on people who assume that the person who did something a hundred times will continue doing it.
+    Burnout. The person who did that thing a hundred times? Yeah, they're pretty tired now.
+    Passive aggressiveness. If several people rapidly change each others work without considering it, it can be disrespectful and lead to informal or formal conflict.
+    Confusion. If many people are doing many things simultaneously without connecting this can lead to wasted energy of people doing the same things.
+    Waste. If multiple people do the same thing without realizing there can be a loss of efficiency. (See Going to group)
+
+To remedy: Keep reminding yourself and others to communicate well and often and keep knowledge accessible. Consider mentoring other people in what you do so they can learn by experience - by rotating and having many people able to do many things, the group builds resilience and flexibility. Confront conflicts constructively as soon you see them and be humble.
+Bootstrapping to group
+
+There are some pretty huge limitations in doing things solo. It can be lonely or demoralizing and sometime it is simply impossible to do certain things by yourself (e.g. building a free, open-source, global, multi-sharing and saving platform, ha!) So don't do it alone. What you are looking for, my friend, is Creative Collaborative Consent.
+	
