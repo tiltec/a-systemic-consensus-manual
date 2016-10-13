@@ -1,6 +1,5 @@
 # Summary
 
-* [About](README.md)
 * [Foreword](foreword.md)
 * [Introduction](introduction.md)
    * [Dissent](dissent.md)
@@ -16,5 +15,6 @@
        * [For Users](quickSysConForUsers.md)
 * [Collaborate](collaborate.md)
    * [Contributors](contributors.md)
+* [About](README.md)
 * [Book Bucket](bookBucket.md)
 
