@@ -43,6 +43,7 @@ _A whole bunch of half-finished stuff, ideas, links, etc which eventually should
 * Metcalfe’s Law Opportunity Gap.- https://bhc3.com/2010/01/19/why-smbs-need-social-software-dunbars-number-limits-metcalfes-law/
 * http://ska.quicquid.org/
 * https://hbr.org/2001/02/the-law-of-the-pack many to many
+* http://www.slideshare.net/KaiNexus/the-art-and-science-behind-a-successful-lean-transformation
 
 # Value of a group
 
