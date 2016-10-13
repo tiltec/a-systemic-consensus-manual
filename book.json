@@ -5,9 +5,6 @@
         "atoc",
         "back-to-top-button"
     ],
-      "structure": {
-    "readme": "foreword.md"
-    },
     "pluginsConfig": {
         "forkmegithub": {
             "url": "https://github.com/DougInAMug/a-systemic-consensus-manual",
