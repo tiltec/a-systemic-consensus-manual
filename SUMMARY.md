@@ -1,6 +1,6 @@
 # Summary
 
-* [Foreword](foreword.md)
+* [Foreword](README.md)
 * [Introduction](introduction.md)
    * [Dissent](dissent.md)
 * [Methods](methods.md)
@@ -16,5 +16,3 @@
 * [Collaborate](collaborate.md)
    * [Contributors](contributors.md)
 * [Book Bucket](bookBucket.md)
-* [About](README.md)
-

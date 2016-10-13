@@ -260,10 +260,22 @@ XXXX////
 XXX////
 
 
+# About
+
+Group decisions. Why, What but mostly How. Established methods reviewed and Systemic Consensus introduced: a simple, scalable and consent-oriented decision making framework called **Systemic Consensus** which combines range voting with control options and consensus logic.
+
+## On living resources
+
+Consider books. There are shit loads of books, way more than anyone can read. Typically a minority of books go big time, everyone gets the view point of one author, the publisher gets rich, the author dies, the book becomes frozen and takes space on a shelf beside increasing numbers of similar but slightly newer books:
+
+> As long as the centuries continue to unfold, the number of books will grow continually, and one can predict that a time will come when it will be almost as difficult to learn anything from books as from the direct study of the whole universe.
+>
+> — Denis Diderot, "Encyclopédie" (1755)
+
+What a waste, everyone writing similar stuff, most of which won't get read. Then the internet happened, yay! However the very same problems of redundancy proliferation and intellectual privatization progressed at a much greater rate. Then cool licenses and wikis happened, yay! However the nice bit about books got lost - a linear narrative that takes the reader through a comprehensive but concise overview of a subject. Then more cool web/computer stuff happened and now it's now. What if made books with their own life that survived their creator and adapted to the needs of the time? We can, let's make this one. 
 
 
-
-
+All attempts have been made to write as pluralistically as possible, that is, without moralizing relative to The One Right Way. This hopefully allows you, dear reader, to make your own decisions. As such philosophical elements are phrased more like questions, theoretical elements are offered as perspectives, practical elements are written neutrally and opinion pieces are made explicit. 
 
 
 
