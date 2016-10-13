@@ -14,6 +14,7 @@
 * [Systemic Consensus](sysCon.md)
    * [Quick Systemic Consensus](quickSysCon.md)
        * [For Users](quickSysConForUsers.md)
-* [Contributors](contributors.md)
+* [Collaborate](collaborate.md)
+   * [Contributors](contributors.md)
 * [Book Bucket](bookBucket.md)
 

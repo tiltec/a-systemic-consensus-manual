@@ -241,5 +241,74 @@ ovpb/single/singular/simple/binary
 	
 	
 	
-
+# Math
 	
+5 options + 5 votes -1 = 9th level of pascals triangle, 5 (no of votes) from the side (9 chose 5)
+
+1
+11
+121
+1331
+14641
+
+The Mississippi problem - thanks Konrad. Useful for solving cumultive voting scores. Introduction to Combinatorics
+
+9!/(4!*5!)
+
+XXXXX////
+XXXX////
+XXX////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
